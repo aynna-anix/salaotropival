@@ -96,7 +96,7 @@ img:hover {
 
 /* FOOTER */
 footer {
-    background-color: #8d21c7;
+    background-color: #64da64;
     color: #ffffff;
     text-align: center;
     padding: 20px 10px;
@@ -164,7 +164,7 @@ footer img {
     form input[type="submit"] {
         width: 100%;
         padding: 12px;
-        background-color: #8d21c7;
+        background-color: #61e65d;
         color: white;
         border: none;
         border-radius: 8px;
@@ -174,7 +174,7 @@ footer img {
     }
     
     form input[type="submit"]:hover {
-        background-color: #6d179f;
+        background-color: #61e77e;
     }
     
 }
