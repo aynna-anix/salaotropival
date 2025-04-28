@@ -14,7 +14,7 @@ body {
 
 /* HEADER */
 header {
-    background-color: rgb(98, 231, 116);
+    background-color: #00796b (98, 231, 116);
     padding: 30px 20px;
     text-align: center;
     color: white;
@@ -27,7 +27,7 @@ header {
 nav ul {
     list-style: none;
     text-align: center;
-    background-color: #56c766;
+    background-color: #00796b;
     padding: 15px 0;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
@@ -138,7 +138,7 @@ form input[type="email"] {
 
 form input[type="text"]:focus,
 form input[type="email"]:focus {
-    border-color: #8d21c7;
+    border-color: #00796b;
     outline: none;
 }
 
@@ -156,12 +156,12 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background-color: #2ecc71;
+    background-color: #0a8684;
 }
 
 /* FOOTER */
 footer {
-    background-color: #64da64;
+    background-color: #00796b;
     color: white;
     text-align: center;
     padding: 30px 20px;
