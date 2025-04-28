@@ -299,3 +299,60 @@ main {
     margin-top: 10px;
 }
 }
+orm {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Botão enviar */
+  .enviar {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Verde bonito */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .enviar:hover {
+    background-color: #45a049;
+  }
+  
+  /* Estilo para a tabela */
+  table {
+    width: 80%;
+    margin: 0 auto; /* Centraliza a tabela */
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  /* Linha zebrada para o corpo da tabela */
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Rodapé */
+  footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  footer img {
+    width: 100px;
+    margin-bottom: 10px;
+  }
